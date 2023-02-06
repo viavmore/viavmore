@@ -6,7 +6,7 @@
     "fraction": "Без фракции",
     "money": 100,
     "status": "Космос...",
-    "img": require("../Images/player__icon.png"),
+    "img": "no image",
     "ship": 6,
     "states": [
     {
