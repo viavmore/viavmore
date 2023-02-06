@@ -7,7 +7,7 @@
     "fraction": "Без фракции",
     "money": 100,
     "status": "Космос...",
-    "img: "require("../Images/player__icon.png")",
+    "img: "noimg",
     "ship": 6,
     "states": [ 
     {
@@ -21,8 +21,9 @@
         "weapon": "Бластер Пипка",
         "weaponAttack": 1,
         "engine": 0
-    }]
     }
+  ]
+  }
   ],
   "profile": {
     "name": "typicode"
