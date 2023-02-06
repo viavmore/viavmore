@@ -21,4 +21,148 @@
       "engine": 0
     }
   }
+  {
+  "ships": [
+    {
+      "id": 0,
+      "title": "Боевой космический корабль 1-го ранга",
+      "img": "../Images/ship__icon.png",
+      "description": "гавно собаки",
+      "cost": 100,
+      "states": {
+        "hp": 100,
+        "basehp": 1000,
+        "basearmour": 1,
+        "baseattack": 1,
+        "basespeed": 1,
+        "armour": 1,
+        "attack": 1,
+        "speed": 1,
+        "weapon": "Бластер Пипка",
+        "weaponAttack": 1,
+        "engine": 0
+      }
+    },
+    {
+      "id": 1,
+      "title": "Боевой космический корабль 1-го ранга",
+      "img": "../Images/ship__icon.png",
+      "description": "гавно собаки",
+      "cost": 100,
+      "states": {
+        "hp": 100,
+        "basehp": 1000,
+        "basearmour": 1,
+        "baseattack": 1,
+        "basespeed": 1,
+        "armour": 1,
+        "attack": 1,
+        "speed": 1,
+        "weapon": "Бластер Пипка",
+        "weaponAttack": 1,
+        "engine": 0
+      }
+    },
+    {
+      "id": 2,
+      "title": "Боевой космический корабль 1-го ранга",
+      "img": "../Images/ship__icon.png",
+      "description": "гавно собаки",
+      "cost": 100,
+      "states": {
+        "hp": 100,
+        "basehp": 1000,
+        "basearmour": 1,
+        "baseattack": 1,
+        "basespeed": 1,
+        "armour": 1,
+        "attack": 1,
+        "speed": 1,
+        "weapon": "Бластер Пипка",
+        "weaponAttack": 1,
+        "engine": 0
+      }
+    },
+    {
+      "id": 3,
+      "title": "Боевой космический корабль 1-го ранга",
+      "img": "../Images/ship__icon.png",
+      "description": "гавно собаки",
+      "cost": 100,
+      "states": {
+        "hp": 100,
+        "basehp": 1000,
+        "basearmour": 1,
+        "baseattack": 1,
+        "basespeed": 1,
+        "armour": 1,
+        "attack": 1,
+        "speed": 1,
+        "weapon": "Бластер Пипка",
+        "weaponAttack": 1,
+        "engine": 0
+      }
+    },
+    {
+      "id": 4,
+      "title": "Боевой космический корабль 1-го ранга",
+      "img": "../Images/ship__icon.png",
+      "description": "гавно собаки",
+      "cost": 100,
+      "states": {
+        "hp": 100,
+        "basehp": 1000,
+        "basearmour": 1,
+        "baseattack": 1,
+        "basespeed": 1,
+        "armour": 1,
+        "attack": 1,
+        "speed": 1,
+        "weapon": "Бластер Пипка",
+        "weaponAttack": 1,
+        "engine": 0
+      }
+    },
+    {
+      "id": 5,
+      "title": "Боевой космический корабль 1-го ранга",
+      "img": "../Images/ship__icon.png",
+      "description": "гавно собаки",
+      "cost": 100,
+      "states": {
+        "hp": 100,
+        "basehp": 1000,
+        "basearmour": 1,
+        "baseattack": 1,
+        "basespeed": 1,
+        "armour": 1,
+        "attack": 1,
+        "speed": 1,
+        "weapon": "Бластер Пипка",
+        "weaponAttack": 1,
+        "engine": 0
+      }
+    },
+    {
+      "id": 6,
+      "title": "Боевой космический корабль 17-го ранга",
+      "img": "../Images/ship__icon.png",
+      "description": "гавно собаки",
+      "cost": 132130,
+      "states": {
+        "hp": 100,
+        "basehp": 1000,
+        "basearmour": 1,
+        "baseattack": 1,
+        "basespeed": 1,
+        "armour": 1,
+        "attack": 1,
+        "speed": 1,
+        "weapon": "Бластер Пипка",
+        "weaponAttack": 1,
+        "engine": 0
+      }
+    }
+  ]
+}
 }
