@@ -1,5 +1,6 @@
 {
-  "player": {
+  "player": [
+    {
     "id": 0,
     "nickname": "viavmore",
     "planet": "Нефто",
@@ -7,7 +8,7 @@
     "money": 100,
     "status": "Космос...",
     "img": "../Images/player__icon.png",
-    "ship": 6,
+    "ship": 4,
     "states": {
       "hp": 100,
       "basearmour": 1,
@@ -20,6 +21,7 @@
       "weaponAttack": 1,
       "engine": 0
     }
+    ]
   },
   "ships": [
     {
