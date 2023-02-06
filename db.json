@@ -1,28 +1,27 @@
 {
   "player": [
     {
-    id: 0,
-    nickname: "viavmore",
-    planet: "Нефто",
-    fraction: "Без фракции",
-    money: 100,
-    status: "Космос...",
-    img: require("../Images/player__icon.png"),
-    ship: 6,
-    states: [ 
+    "id": 0,
+    "nickname": "viavmore",
+    "planet": "Нефто",
+    "fraction": "Без фракции",
+    "money": 100,
+    "status": "Космос...",
+    "img: "require("../Images/player__icon.png")",
+    "ship": 6,
+    "states": [ 
     {
-        hp: 100,
-        basearmour: 1,
-        baseattack: 1,
-        basespeed: 1,
-        armour: 1,
-        attack: 1,
-        speed: 1,
-        weapon: "Бластер Пипка",
-        weaponAttack: 1,
-        engine: 0
-    }
-    ]
+        "hp": 100,
+        "basearmour": 1,
+        "baseattack": 1,
+        "basespeed": 1,
+        "armour": 1,
+        "attack": 1,
+        "speed": 1,
+        "weapon": "Бластер Пипка",
+        "weaponAttack": 1,
+        "engine": 0
+    }]
     }
   ],
   "profile": {
