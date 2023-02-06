@@ -9,7 +9,7 @@
     "status": "Космос...",
     "img": "noimg",
     "ship": 6,
-    "states": { 
+    "states": 
     {
         "hp": 100,
         "basearmour": 1,
@@ -22,7 +22,6 @@
         "weaponAttack": 1,
         "engine": 0
     }
-  }
   }
 },
   "profile": {
