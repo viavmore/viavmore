@@ -9,7 +9,7 @@
     status: "Космос...",
     img: require("../Images/player__icon.png"),
     ship: 6,
-    states: 
+    states: [ 
     {
         hp: 100,
         basearmour: 1,
@@ -22,6 +22,7 @@
         weaponAttack: 1,
         engine: 0
     }
+    ]
     }
   ],
   "profile": {
