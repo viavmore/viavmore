@@ -176,7 +176,7 @@
       "hp": 50,
       "armour": 2,
       "attack": 2,
-      "speed": 2,
+      "speed": 2
     }
   },
         {
@@ -189,7 +189,7 @@
       "hp": 100,
       "armour": 5,
       "attack": 5,
-      "speed": 5,
+      "speed": 5
     }
   },
         {
@@ -202,7 +202,7 @@
       "hp": 1000,
       "armour": 1,
       "attack": 10,
-      "speed": 1,
+      "speed": 1
     }
   },
         {
@@ -215,7 +215,7 @@
       "hp": 100,
       "armour": 1,
       "attack": 2,
-      "speed": 10,
+      "speed": 10
     }
   }
   ]
