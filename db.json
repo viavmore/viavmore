@@ -31,8 +31,6 @@
       "description": "гавно собаки",
       "cost": 100,
       "states": {
-        "hp": 100,
-        "basehp": 1000,
         "basearmour": 1,
         "baseattack": 1,
         "basespeed": 1,
@@ -52,8 +50,6 @@
       "description": "гавно собаки",
       "cost": 100,
       "states": {
-        "hp": 100,
-        "basehp": 1000,
         "basearmour": 1,
         "baseattack": 1,
         "basespeed": 1,
@@ -73,8 +69,6 @@
       "description": "гавно собаки",
       "cost": 100,
       "states": {
-        "hp": 100,
-        "basehp": 1000,
         "basearmour": 1,
         "baseattack": 1,
         "basespeed": 1,
@@ -94,8 +88,6 @@
       "description": "гавно собаки",
       "cost": 100,
       "states": {
-        "hp": 100,
-        "basehp": 1000,
         "basearmour": 1,
         "baseattack": 1,
         "basespeed": 1,
@@ -115,8 +107,6 @@
       "description": "гавно собаки",
       "cost": 100,
       "states": {
-        "hp": 100,
-        "basehp": 1000,
         "basearmour": 1,
         "baseattack": 1,
         "basespeed": 1,
@@ -136,8 +126,6 @@
       "description": "гавно собаки",
       "cost": 100,
       "states": {
-        "hp": 100,
-        "basehp": 1000,
         "basearmour": 1,
         "baseattack": 1,
         "basespeed": 1,
@@ -157,8 +145,6 @@
       "description": "гавно собаки",
       "cost": 132130,
       "states": {
-        "hp": 100,
-        "basehp": 1000,
         "basearmour": 1,
         "baseattack": 1,
         "basespeed": 1,
