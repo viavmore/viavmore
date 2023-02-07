@@ -7,7 +7,7 @@
     "fraction": "Без фракции",
     "money": 100,
     "status": "Космос...",
-    "img": require("../Images/player__icon.png"),
+    "img": "../Images/player__icon.png",
     "ship": 4,
     "states": {
       "hp": 100,
@@ -27,7 +27,7 @@
     {
       "id": 0,
       "title": "Боевой космический корабль 1-го ранга",
-      "img": require("../Images/ship__icon.png"),
+      "img": "../Images/ship__icon.png",
       "description": "гавно собаки",
       "cost": 100,
       "states": {
@@ -47,7 +47,7 @@
     {
       "id": 1,
       "title": "Боевой космический корабль 1-го ранга",
-      "img": require("../Images/ship__icon.png"),
+      "img": "../Images/ship__icon.png",
       "description": "гавно собаки",
       "cost": 100,
       "states": {
@@ -67,7 +67,7 @@
     {
       "id": 2,
       "title": "Боевой космический корабль 1-го ранга",
-      "img": require("../Images/ship__icon.png"),
+      "img": "../Images/ship__icon.png",
       "description": "гавно собаки",
       "cost": 100,
       "states": {
@@ -87,7 +87,7 @@
     {
       "id": 3,
       "title": "Боевой космический корабль 1-го ранга",
-      "img": require("../Images/ship__icon.png"),
+      "img": "../Images/ship__icon.png",
       "description": "гавно собаки",
       "cost": 100,
       "states": {
@@ -107,7 +107,7 @@
     {
       "id": 4,
       "title": "Боевой космический корабль 1-го ранга",
-      "img": require("../Images/ship__icon.png"),
+      "img": "../Images/ship__icon.png",
       "description": "гавно собаки",
       "cost": 100,
       "states": {
@@ -127,7 +127,7 @@
     {
       "id": 5,
       "title": "Боевой космический корабль 1-го ранга",
-      "img": require("../Images/ship__icon.png"),
+      "img": "../Images/ship__icon.png",
       "description": "гавно собаки",
       "cost": 100,
       "states": {
@@ -147,7 +147,7 @@
     {
       "id": 6,
       "title": "Боевой космический корабль 17-го ранга",
-      "img": require("../Images/ship__icon.png"),
+      "img": "../Images/ship__icon.png",
       "description": "гавно собаки",
       "cost": 132130,
       "states": {
