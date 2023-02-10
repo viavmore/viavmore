@@ -1,241 +1,241 @@
 {
-  "player": [
-    {
-    "id": 0,
-    "nickname": "viavmore",
-    "planet": "Нефто",
-    "fraction": "Без фракции",
-    "money": 100,
-    "status": "Космос...",
-    "img": "../Images/player__icon.png",
-    "ship": 4,
-    "states": {
-      "hp": 100,
-      "basearmour": 1,
-      "baseattack": 1,
-      "basespeed": 1,
-      "armour": 1,
-      "attack": 1,
-      "speed": 1,
-      "weapon": "Бластер Пипка",
-      "weaponAttack": 1,
-      "engine": 0
-    }
-  }
-  ],
-  "ships": [
-    {
-      "id": 0,
-      "title": "Боевой космический корабль 1-го ранга",
-      "img": "../Images/ship__icon.png",
-      "description": "гавно собаки",
-      "cost": 100,
-      "states": {
-        "basearmour": 1,
-        "baseattack": 1,
-        "basespeed": 1,
-        "armour": 1,
-        "chanceToBlock": 0.25,
-        "attack": 1,
-        "speed": 1,
-        "weapon": "Бластер Пипка",
-        "weaponAttack": 1,
-        "engine": 0
-      }
-    },
-    {
-      "id": 1,
-      "title": "Боевой космический корабль 2-го ранга",
-      "img": "../Images/ship__icon.png",
-      "description": "гавно собаки",
-      "cost": 100,
-      "states": {
-        "basearmour": 1,
-        "baseattack": 1,
-        "basespeed": 1,
-        "armour": 1,
-        "chanceToBlock": 0.25,
-        "attack": 1,
-        "speed": 1,
-        "weapon": "Бластер Пипка",
-        "weaponAttack": 1,
-        "engine": 0
-      }
-    },
-    {
-      "id": 2,
-      "title": "Боевой космический корабль 3-го ранга",
-      "img": "../Images/ship__icon.png",
-      "description": "гавно собаки",
-      "cost": 100,
-      "states": {
-        "basearmour": 1,
-        "baseattack": 1,
-        "basespeed": 1,
-        "armour": 1,
-        "chanceToBlock": 0.25,
-        "attack": 1,
-        "speed": 1,
-        "weapon": "Бластер Пипка",
-        "weaponAttack": 1,
-        "engine": 0
-      }
-    },
-    {
-      "id": 3,
-      "title": "Боевой космический корабль 4-го ранга",
-      "img": "../Images/ship__icon.png",
-      "description": "гавно собаки",
-      "cost": 100,
-      "states": {
-        "basearmour": 1,
-        "baseattack": 1,
-        "basespeed": 1,
-        "armour": 1,
-        "chanceToBlock": 0.25,
-        "attack": 1,
-        "speed": 1,
-        "weapon": "Бластер Пипка",
-        "weaponAttack": 1,
-        "engine": 0
-      }
-    },
-    {
-      "id": 4,
-      "title": "Боевой космический корабль 5-го ранга",
-      "img": "../Images/ship__icon.png",
-      "description": "гавно собаки",
-      "cost": 100,
-      "states": {
-        "basearmour": 1,
-        "baseattack": 1,
-        "basespeed": 1,
-        "armour": 1,
-        "chanceToBlock": 0.25,
-        "attack": 1,
-        "speed": 1,
-        "weapon": "Бластер Пипка",
-        "weaponAttack": 1,
-        "engine": 0
-      }
-    },
-    {
-      "id": 5,
-      "title": "Боевой космический корабль 6-го ранга",
-      "img": "../Images/ship__icon.png",
-      "description": "гавно собаки",
-      "cost": 100,
-      "states": {
-        "basearmour": 1,
-        "baseattack": 1,
-        "basespeed": 1,
-        "armour": 1,
-        "chanceToBlock": 0.25,
-        "attack": 1,
-        "speed": 1,
-        "weapon": "Бластер Пипка",
-        "weaponAttack": 1,
-        "engine": 0
-      }
-    },
-    {
-      "id": 6,
-      "title": "Боевой космический корабль 7-го ранга",
-      "img": "../Images/ship__icon.png",
-      "description": "гавно собаки",
-      "cost": 132130,
-      "states": {
-        "basearmour": 1,
-        "baseattack": 1,
-        "basespeed": 1,
-        "armour": 1,
-        "chanceToBlock": 0.25,
-        "attack": 1,
-        "speed": 1,
-        "weapon": "Бластер Пипка",
-        "weaponAttack": 1,
-        "engine": 0
-      }
-    }
-  ],
-  "enemies": [
-    {
-    "id": 0,
-    "title": "Гоблин",
-    "planet": "Заглид",
-    "money": 10,
-    "img": "../Images/player__icon.png",
-    "states": {
-      "hp": 50,
-      "armour": 2,
-      "attack": 2,
-      "speed": 2
-    }
-  },
+    "player": [
         {
-    "id": 1,
-    "title": "Пилот",
-    "planet": "Космос",
-    "money": 100,
-    "img": "../Images/player__icon.png",
-    "states": {
-      "hp": 100,
-      "armour": 5,
-      "attack": 5,
-      "speed": 5
-    }
-  },
+            "id": 0,
+            "nickname": "viavmore",
+            "planet": "Нефто",
+            "fraction": "Без фракции",
+            "money": 100,
+            "status": "Космос...",
+            "img": "../Images/player__icon.png",
+            "ship": 4,
+            "states": {
+                "hp": 100,
+                "basearmour": 1,
+                "baseattack": 1,
+                "basespeed": 1,
+                "armour": 1,
+                "attack": 1,
+                "speed": 1,
+                "weapon": "Бластер Пипка",
+                "weaponAttack": 1,
+                "engine": 0
+            }
+        }
+    ],
+    "ships": [
         {
-    "id": 2,
-    "title": "Верзила",
-    "planet": "Драгун",
-    "money": 15,
-    "img": "../Images/player__icon.png",
-    "states": {
-      "hp": 1000,
-      "armour": 1,
-      "attack": 10,
-      "speed": 1
-    }
-  },
+            "id": 0,
+            "title": "Боевой космический корабль 1-го ранга",
+            "img": "../Images/ship__icon.png",
+            "description": "гавно собаки",
+            "cost": 100,
+            "states": {
+                "basearmour": 1,
+                "baseattack": 1,
+                "basespeed": 1,
+                "armour": 1,
+                "chanceToBlock": 0.25,
+                "attack": 1,
+                "speed": 1,
+                "weapon": "Бластер Пипка",
+                "weaponAttack": 1,
+                "engine": 0
+            }
+        },
         {
-    "id": 3,
-    "title": "Раззер",
-    "planet": "Неизвестно",
-    "money": 10,
-    "img": "../Images/player__icon.png",
-    "states": {
-      "hp": 100,
-      "armour": 1,
-      "attack": 2,
-      "speed": 10
-    }
-  }
-  ],
-"missions": [
-    {
-    "id": 0,
-    "title": "Добро пожаловать в космос! [1]",
-    "planet": "Разгорти",
-    "money": 10,
-    "enemy": {
-      "hp": 1000,
-      "armour": 1,
-      "attack": 10,
-      "speed": 1
-    }
-  },
-  {
-    "id": 1,
-    "title": "Первый бой - он трудный самый! [2]",
-    "planet": "Разгорти",
-    "money": 10,
-    "enemy": {
-      "hp": 100,
-      "armour": 1,
-      "attack": 10,
-      "speed": 1
-    }
-  }
-  ]
+            "id": 1,
+            "title": "Боевой космический корабль 2-го ранга",
+            "img": "../Images/ship__icon.png",
+            "description": "гавно собаки",
+            "cost": 100,
+            "states": {
+                "basearmour": 1,
+                "baseattack": 1,
+                "basespeed": 1,
+                "armour": 1,
+                "chanceToBlock": 0.25,
+                "attack": 1,
+                "speed": 1,
+                "weapon": "Бластер Пипка",
+                "weaponAttack": 1,
+                "engine": 0
+            }
+        },
+        {
+            "id": 2,
+            "title": "Боевой космический корабль 3-го ранга",
+            "img": "../Images/ship__icon.png",
+            "description": "гавно собаки",
+            "cost": 100,
+            "states": {
+                "basearmour": 1,
+                "baseattack": 1,
+                "basespeed": 1,
+                "armour": 1,
+                "chanceToBlock": 0.25,
+                "attack": 1,
+                "speed": 1,
+                "weapon": "Бластер Пипка",
+                "weaponAttack": 1,
+                "engine": 0
+            }
+        },
+        {
+            "id": 3,
+            "title": "Боевой космический корабль 4-го ранга",
+            "img": "../Images/ship__icon.png",
+            "description": "гавно собаки",
+            "cost": 100,
+            "states": {
+                "basearmour": 1,
+                "baseattack": 1,
+                "basespeed": 1,
+                "armour": 1,
+                "chanceToBlock": 0.25,
+                "attack": 1,
+                "speed": 1,
+                "weapon": "Бластер Пипка",
+                "weaponAttack": 1,
+                "engine": 0
+            }
+        },
+        {
+            "id": 4,
+            "title": "Боевой космический корабль 5-го ранга",
+            "img": "../Images/ship__icon.png",
+            "description": "гавно собаки",
+            "cost": 100,
+            "states": {
+                "basearmour": 1,
+                "baseattack": 1,
+                "basespeed": 1,
+                "armour": 1,
+                "chanceToBlock": 0.25,
+                "attack": 1,
+                "speed": 1,
+                "weapon": "Бластер Пипка",
+                "weaponAttack": 1,
+                "engine": 0
+            }
+        },
+        {
+            "id": 5,
+            "title": "Боевой космический корабль 6-го ранга",
+            "img": "../Images/ship__icon.png",
+            "description": "гавно собаки",
+            "cost": 100,
+            "states": {
+                "basearmour": 1,
+                "baseattack": 1,
+                "basespeed": 1,
+                "armour": 1,
+                "chanceToBlock": 0.25,
+                "attack": 1,
+                "speed": 1,
+                "weapon": "Бластер Пипка",
+                "weaponAttack": 1,
+                "engine": 0
+            }
+        },
+        {
+            "id": 6,
+            "title": "Боевой космический корабль 7-го ранга",
+            "img": "../Images/ship__icon.png",
+            "description": "гавно собаки",
+            "cost": 132130,
+            "states": {
+                "basearmour": 1,
+                "baseattack": 1,
+                "basespeed": 1,
+                "armour": 1,
+                "chanceToBlock": 0.25,
+                "attack": 1,
+                "speed": 1,
+                "weapon": "Бластер Пипка",
+                "weaponAttack": 1,
+                "engine": 0
+            }
+        }
+    ],
+    "enemies": [
+        {
+            "id": 0,
+            "title": "Гоблин",
+            "planet": "Заглид",
+            "money": 10,
+            "img": "../Images/player__icon.png",
+            "states": {
+                "hp": 50,
+                "armour": 2,
+                "attack": 2,
+                "speed": 2
+            }
+        },
+        {
+            "id": 1,
+            "title": "Пилот",
+            "planet": "Космос",
+            "money": 100,
+            "img": "../Images/player__icon.png",
+            "states": {
+                "hp": 100,
+                "armour": 5,
+                "attack": 5,
+                "speed": 5
+            }
+        },
+        {
+            "id": 2,
+            "title": "Верзила",
+            "planet": "Драгун",
+            "money": 15,
+            "img": "../Images/player__icon.png",
+            "states": {
+                "hp": 1000,
+                "armour": 1,
+                "attack": 10,
+                "speed": 1
+            }
+        },
+        {
+            "id": 3,
+            "title": "Раззер",
+            "planet": "Неизвестно",
+            "money": 10,
+            "img": "../Images/player__icon.png",
+            "states": {
+                "hp": 100,
+                "armour": 1,
+                "attack": 2,
+                "speed": 10
+            }
+        }
+    ],
+    "missions": [
+        {
+            "id": 0,
+            "title": "Добро пожаловать в космос! [1]",
+            "planet": "Разгорти",
+            "money": 10,
+            "enemy": {
+                "hp": 1000,
+                "armour": 1,
+                "attack": 10,
+                "speed": 1
+            }
+        },
+        {
+            "id": 1,
+            "title": "Первый бой - он трудный самый! [2]",
+            "planet": "Разгорти",
+            "money": 10,
+            "enemy": {
+                "hp": 100,
+                "armour": 1,
+                "attack": 10,
+                "speed": 1
+            }
+        }
+    ]
 }
